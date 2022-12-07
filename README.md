@@ -1,3 +1,3 @@
-![General Summary](https://user-images.githubusercontent.com/119917885/206230944-113b089b-4558-4c00-9613-719b336216a4.png)
-![Batsman](https://user-images.githubusercontent.com/119917885/206230965-74e573fd-141b-45ff-a87e-dc8a99ce2f3c.png)
-![Bowler](https://user-images.githubusercontent.com/119917885/206230982-45570dfb-917c-488e-a0eb-2fdc89085c2b.png)
+![General Summary](https://user-images.githubusercontent.com/119917885/206231491-863049cd-733f-4e0f-9826-3b0376d6dec9.png)
+![Batsman](https://user-images.githubusercontent.com/119917885/206231507-88e92fe8-5954-43b7-b2d4-1c8dfc0bd3d8.png)
+![Bowler](https://user-images.githubusercontent.com/119917885/206231517-a9f34645-c6f0-47bd-976b-4e2790e7c9a3.png)
